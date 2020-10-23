@@ -1,0 +1,32 @@
+[1021/144303.575:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.560:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.560:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.575:ERROR:exception_snapshot_win.cc(99)] thread ID 15788 not found in process
+[1021/144303.575:ERROR:exception_snapshot_win.cc(99)] thread ID 13884 not found in process
+[1021/144303.575:ERROR:exception_snapshot_win.cc(99)] thread ID 18356 not found in process
+[1021/144303.669:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.669:ERROR:exception_snapshot_win.cc(99)] thread ID 10620 not found in process
+[1021/144303.763:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.763:ERROR:exception_snapshot_win.cc(99)] thread ID 9136 not found in process
+[1021/144303.778:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.778:ERROR:exception_snapshot_win.cc(99)] thread ID 14140 not found in process
+[1021/144303.810:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.810:ERROR:exception_snapshot_win.cc(99)] thread ID 8540 not found in process
+[1021/144303.903:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.903:ERROR:exception_snapshot_win.cc(99)] thread ID 15048 not found in process
+[1021/144303.997:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144303.997:ERROR:exception_snapshot_win.cc(99)] thread ID 8108 not found in process
+[1021/144304.028:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144304.028:ERROR:exception_snapshot_win.cc(99)] thread ID 13728 not found in process
+[1021/144304.060:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144304.060:ERROR:exception_snapshot_win.cc(99)] thread ID 17300 not found in process
+[1021/144304.122:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144304.122:ERROR:exception_snapshot_win.cc(99)] thread ID 3396 not found in process
+[1021/144304.122:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144304.122:ERROR:exception_snapshot_win.cc(99)] thread ID 8616 not found in process
+[1021/144304.153:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144304.153:ERROR:exception_snapshot_win.cc(99)] thread ID 17212 not found in process
+[1021/144304.169:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144304.169:ERROR:exception_snapshot_win.cc(99)] thread ID 14912 not found in process
+[1021/144304.185:ERROR:process_reader_win.cc(123)] NtOpenThread: {Odmowa dostêpu} Proces za¿¹da³ dostêpu do obiektu, ale prawa dostêpu nie zosta³y przyznane. (0xc0000022)
+[1021/144304.185:ERROR:exception_snapshot_win.cc(99)] thread ID 7320 not found in process
