@@ -1,0 +1,9 @@
+#prodution
+/build
+#misc
+.env
+.env.local
+# dependencies
+node_modules
+node_modules/
+/.pnp
